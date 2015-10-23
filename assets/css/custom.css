@@ -1,0 +1,118 @@
+body{
+
+}
+.logo{
+	max-width: 100%;
+}
+.login-page .login-header{
+	padding-top: 20px;
+	padding-bottom: 90px;
+}
+.login-page.logging-in .login-header {
+  padding-top: 20px;
+  padding-bottom: 90px;
+
+}
+.login-container{
+  /*padding-bottom: 80px;*/
+}
+.pad15{
+  padding: 15px;
+}
+.index  {
+	/*position: absolute;*/
+	/*bottom: 0px;*/
+  background-color:#212428;/*#272727;*/
+  width: 100%;
+  /*margin: 0;*/
+  border-top: 1px solid #212121;
+  
+
+  
+}
+
+footer{
+  margin-top: 15px;
+  bottom: 0;
+  left:0;
+  right: 0;
+  height: 50px;
+  width: 100%;
+  position: absolute;
+}
+footer.main{
+  border-top:   1px solid #212428; 
+}
+ .indexer{
+  position: inherit;
+}
+footer div{
+  color: #949494;
+  padding-left: 15px;
+  padding-right: 15px
+}
+footer .index {
+  /*padding: 16px 30px 17px;*/
+ /* text-align: left;
+  background: #212428;#272727;
+  margin: 0 auto;
+  border-top: 1px solid #212121;*/
+}
+.login-page .form-register-success i, .login-page .form-forgotpassword-success i, .login-page .form-login-error i{
+  background: transparent;
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  line-height: 1;
+  padding: 4px 2px;
+  -webkit-border-radius: 3px;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 3px;
+  -moz-background-clip: padding;
+  border-radius: 3px;
+  background-clip: padding-box;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+
+/*.login-form{
+  min-height: 480px;
+  }*/
+
+
+  body::-webkit-scrollbar-track
+  {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+  }
+
+  body::-webkit-scrollbar
+  {
+    width: 6px;
+    background-color: #F5F5F5;
+  }
+
+  body::-webkit-scrollbar-thumb
+  {
+    background-color: #000000;
+  }
+
+  .profile-env > header .profile-picture img {
+    height: 100px;
+  }
+  html,body{
+    
+  }
+  .holder{
+    
+    padding-bottom: 50px; 
+  }
+  .page-container .main-content{
+    min-height: 100%;
+  }
+  .login-container {
+    min-height: 100%;
+  }
+  a{cursor: pointer;}
