@@ -67,3 +67,8 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/jithurjacob/total-college-management-system/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
